@@ -1,9 +1,13 @@
 
-  # EduAdvisor Signup Form
+# EduAdvisor Signup Form
 
-  ## Running the code
+## 🌐 Live Demo
 
-  Run `npm i` to install the dependencies.
+**View the live application:** [https://eduadvisor-signup-form.vercel.app](https://eduadvisor-signup-form.vercel.app)
 
-  Run `npm run dev` to start the development server.
+## 🚀 Running the code locally
+
+Run `npm i` to install the dependencies.
+
+Run `npm run dev` to start the development server.
   
