@@ -148,7 +148,7 @@ export default function ModernEduAdvisorForm() {
     // Redirect based on completed class
     const redirectUrl = formData.completedClass === '10th' 
       ? 'https://v0-eduadvisor101.vercel.app/'
-      : 'https://v0-eduadvisor121.vercel.app/';
+      : 'https://v0-eduadvisor1211.vercel.app/';
 
     toast.success('Redirecting to your personalized dashboard...', {
       icon: <CheckCircle className="w-4 h-4" />,
